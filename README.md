@@ -1,2 +1,2 @@
 # RepoSzkola
-do szkoly ig
+repo do szkoły tak jak to tlumaczy nazwa 
