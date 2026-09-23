@@ -1,3 +1,2 @@
 # RepoSzkola
-repo do szkoły tak jak to tlumaczy nazwa 
-zmiana?
+23.09.2026
